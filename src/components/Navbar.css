@@ -1,0 +1,76 @@
+
+nav{
+      background-color: white;
+      border-bottom: 0px solid transparent!important;
+      box-shadow: none!important;
+  }
+  .nav-item a:hover {
+    color: rgb(239,125,57) !important;
+    background-color: transparent !important;
+    cursor: pointer;
+  }
+  .nav-item a {
+    color: #1e2327 !important;
+    cursor: pointer;
+  }
+  .navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+  .shoppingChart{
+      padding-top: 30px;
+    
+  }
+
+#test{
+  position: relative;
+}
+#numberOfItemsAdded{
+  color: rgb(239,125,57);
+  position: absolute;
+  top: 15px;
+  left: 8.5px;
+  font-size: 12px;
+  font: "Comic Sans MS", cursive, sans-serif;
+}
+
+.CartB{
+  background-color: transparent;
+  border: none;
+  color: #1e2327;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.CartB:hover {
+  background-color: transparent;
+  color: rgb(239,125,57)
+}
+.CartB:active{
+  background-color: transparent;
+}
+
+.CartB:focus{
+  background:transparent;
+}
+
+.ActionButton{
+  background-color: #1e2327;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.ActionButton:hover {
+  background-color: transparent;
+  color: rgb(239,125,57)
+}
+.ActionButton:active{
+  background-color: transparent;
+}
+
+.ActionButton:focus{
+  background:transparent;
+}
